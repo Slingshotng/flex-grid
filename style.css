@@ -88,3 +88,13 @@ color: hsl(31, 77%, 52%);
   color:hsl(179, 100%, 13%);
   }
   
+
+.grid{
+  background-color: red;
+  margin-left: 70%;
+  
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
